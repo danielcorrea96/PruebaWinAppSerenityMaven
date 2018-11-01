@@ -1,0 +1,4 @@
+Operaciones en Calculadora
+Para entender Serenity
+Como un Tester
+Quiero probar la calculadora de Windows.
